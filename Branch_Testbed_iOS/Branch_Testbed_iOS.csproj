@@ -84,6 +84,15 @@
     <PlatformTarget>x86</PlatformTarget>
   </PropertyGroup>
   <ItemGroup>
+    <Reference Include="Branch-Xamarin-Lib.iOS, Version=1.0.6707.38628, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\Branch-Xamarin-Linking-SDK.4.0.4\lib\Xamarin.iOS10\Branch-Xamarin-Lib.iOS.dll</HintPath>
+    </Reference>
+    <Reference Include="Branch-Xamarin-SDK, Version=1.0.6707.38631, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\Branch-Xamarin-Linking-SDK.4.0.4\lib\Xamarin.iOS10\Branch-Xamarin-SDK.dll</HintPath>
+    </Reference>
+    <Reference Include="Branch-Xamarin-SDK.iOS, Version=1.0.6707.38651, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\Branch-Xamarin-Linking-SDK.4.0.4\lib\Xamarin.iOS10\Branch-Xamarin-SDK.iOS.dll</HintPath>
+    </Reference>
     <Reference Include="System" />
     <Reference Include="System.Xml" />
     <Reference Include="System.Core" />
@@ -96,15 +105,6 @@
     </Reference>
     <Reference Include="Newtonsoft.Json">
       <HintPath>..\packages\Newtonsoft.Json.9.0.1\lib\portable-net45+wp80+win8+wpa81\Newtonsoft.Json.dll</HintPath>
-    </Reference>
-    <Reference Include="Branch-Xamarin-Lib.iOS">
-      <HintPath>..\packages\Branch-Xamarin-Linking-SDK.3.0.1\lib\Xamarin.iOS10\Branch-Xamarin-Lib.iOS.dll</HintPath>
-    </Reference>
-    <Reference Include="Branch-Xamarin-SDK">
-      <HintPath>..\packages\Branch-Xamarin-Linking-SDK.3.0.1\lib\Xamarin.iOS10\Branch-Xamarin-SDK.dll</HintPath>
-    </Reference>
-    <Reference Include="Branch-Xamarin-SDK.iOS">
-      <HintPath>..\packages\Branch-Xamarin-Linking-SDK.3.0.1\lib\Xamarin.iOS10\Branch-Xamarin-SDK.iOS.dll</HintPath>
     </Reference>
   </ItemGroup>
   <ItemGroup>
