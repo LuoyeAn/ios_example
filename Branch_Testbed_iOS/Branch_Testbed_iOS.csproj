@@ -84,14 +84,14 @@
     <PlatformTarget>x86</PlatformTarget>
   </PropertyGroup>
   <ItemGroup>
-    <Reference Include="Branch-Xamarin-Lib.iOS, Version=1.0.6707.38628, Culture=neutral, processorArchitecture=MSIL">
-      <HintPath>..\packages\Branch-Xamarin-Linking-SDK.4.0.4\lib\Xamarin.iOS10\Branch-Xamarin-Lib.iOS.dll</HintPath>
+    <Reference Include="Branch-Xamarin-Lib.iOS, Version=1.0.6682.7397, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\Branch-Xamarin-Linking-SDK.4.0.3\lib\Xamarin.iOS10\Branch-Xamarin-Lib.iOS.dll</HintPath>
     </Reference>
-    <Reference Include="Branch-Xamarin-SDK, Version=1.0.6707.38631, Culture=neutral, processorArchitecture=MSIL">
-      <HintPath>..\packages\Branch-Xamarin-Linking-SDK.4.0.4\lib\Xamarin.iOS10\Branch-Xamarin-SDK.dll</HintPath>
+    <Reference Include="Branch-Xamarin-SDK, Version=1.0.6682.7401, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\Branch-Xamarin-Linking-SDK.4.0.3\lib\Xamarin.iOS10\Branch-Xamarin-SDK.dll</HintPath>
     </Reference>
-    <Reference Include="Branch-Xamarin-SDK.iOS, Version=1.0.6707.38651, Culture=neutral, processorArchitecture=MSIL">
-      <HintPath>..\packages\Branch-Xamarin-Linking-SDK.4.0.4\lib\Xamarin.iOS10\Branch-Xamarin-SDK.iOS.dll</HintPath>
+    <Reference Include="Branch-Xamarin-SDK.iOS, Version=1.0.6682.7406, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\Branch-Xamarin-Linking-SDK.4.0.3\lib\Xamarin.iOS10\Branch-Xamarin-SDK.iOS.dll</HintPath>
     </Reference>
     <Reference Include="System" />
     <Reference Include="System.Xml" />
