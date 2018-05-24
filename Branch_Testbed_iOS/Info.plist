@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>CFBundleIdentifier</key>
-	<string>io.branch.TestBed-Xamarin</string>
+	<string>com.boundlss.getest.ios</string>
 	<key>CFBundleShortVersionString</key>
 	<string>1.0</string>
 	<key>CFBundleVersion</key>
@@ -49,5 +49,7 @@
 	</array>
 	<key>CFBundleName</key>
 	<string>TestBed-Xamarin</string>
+	<key>CFBundleDisplayName</key>
+	<string>test</string>
 </dict>
 </plist>
